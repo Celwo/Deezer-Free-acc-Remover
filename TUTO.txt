@@ -7,6 +7,6 @@
 
 - Entrez py main.py
 
-🎉 Puis un nouveau fichié nommé "Napster.txt" sera créé dans le dossier "Removed" et qui contiendra que les comptes avec des abonements.
+🎉 Puis un nouveau fichié nommé "Deezer.txt" sera créé dans le dossier "Removed" et qui contiendra que les comptes avec des abonements.
 
 Merci à vous d'utiliser mon programme ! ❤

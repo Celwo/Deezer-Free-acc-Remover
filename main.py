@@ -4,7 +4,7 @@ bad_words = ['Free', 'Deezer Free', 'Gratuit']
 
 if not path.exists("Removed"):
         makedirs("Removed")
-with open('hits.txt') as oldfile, open('Removed/Napster.txt', 'w') as newfile:
+with open('hits.txt') as oldfile, open('Removed/Deezer.txt', 'w') as newfile:
     for line in oldfile:
         if not any(bad_word in line for bad_word in bad_words):
             newfile.write(line)

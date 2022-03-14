@@ -1,0 +1,12 @@
+
+
+
+- Mettez votre fichier de comptes dans le dossier puis renommez le "hits" /!\ IMPORTANT /!\
+
+- Lancez un cmd dans le dossier (https://cdn.discordapp.com/attachments/882029855611449395/952648853276983407/unknown.png)
+
+- Entrez py main.py
+
+🎉 Puis un nouveau fichié nommé "Napster.txt" sera créé dans le dossier "Removed" et qui contiendra que les comptes avec des abonements.
+
+Merci à vous d'utiliser mon programme ! ❤
